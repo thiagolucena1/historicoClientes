@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\bin\Debug\net9.0\classeProjeto.exe
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\bin\Debug\net9.0\classeProjeto.deps.json
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\bin\Debug\net9.0\classeProjeto.runtimeconfig.json
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\bin\Debug\net9.0\classeProjeto.dll
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\bin\Debug\net9.0\classeProjeto.pdb
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.dll
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\refint\classeProjeto.dll
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.pdb
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\classeProjeto.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\thi\dio\classes\classeProjeto\obj\Debug\net9.0\ref\classeProjeto.dll
